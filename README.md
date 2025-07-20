@@ -1,7 +1,3 @@
-Of course. Here is a professional-quality README file for your BCD Arithmetic Calculator project, written in Markdown format. You can copy and paste this text directly into a file named `README.md` in your project's root directory.
-
----
-
 # BCD Arithmetic Calculator
 
 ## Overview
